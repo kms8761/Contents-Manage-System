@@ -39,4 +39,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![20191202_135524](https://user-images.githubusercontent.com/46488424/69931802-ef30d580-150b-11ea-936c-39c63c2afbbc.png)
 ### src/views/TrashBin.vue
 ![20191202_135537](https://user-images.githubusercontent.com/46488424/69931833-096ab380-150c-11ea-899d-d1486ae90ae3.png)
+### src/views/Board.vue
+![게시판](https://user-images.githubusercontent.com/44186682/70210054-12aa8900-1775-11ea-9777-0e041dc4d0d3.png)
 
