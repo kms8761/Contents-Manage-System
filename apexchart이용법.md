@@ -12,7 +12,7 @@ OR
 **Direct <script> include**Another way is to directly include it in your html`[<**script** src="https://cdn.jsdelivr.net/npm/apexcharts"></**script**>](https://cdn.jsdelivr.net/npm/apexcharts)`
 
 ## 1기본그래프
-# ...Views/components/mydevice/stastics.vue
+## ...Views/components/mydevice/stastics.vue
 ![20191202_135524](https://user-images.githubusercontent.com/44186682/70415822-df336b80-1aa0-11ea-90ed-9cfbf35220de.png)
 
 
