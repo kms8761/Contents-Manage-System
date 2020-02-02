@@ -40,7 +40,7 @@ User.create({
 
 
 
-#### 사용예시 
+##### 사용예시 
 
 module.exports = sequelize, datatypes =>
 return sequelize.defie('comment')
