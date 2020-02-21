@@ -12,25 +12,25 @@
 
 
 
-### mysql 흐름도
+## mysql 흐름도
 
-#### 1.
+### 1.
 
 model=테이블 express generator ->sequelize설치
 
-#### 2.
+### 2.
 
 프론트에서 
 서버의 라우터로 ajax 요청을 보내는 코드가 있다
 
-#### 3.
+### 3.
 
  models : DB에 구축할 테이블과 일치하는 타입의 객체를 관리해준다 시퀄라이즈모델 mysql 테이블 대응됩니다
 model에서 시퀄라이즈 자료형을 사용하여 모델을 정의.
 @@join시@@
 hasmany method와 belongto method 사용하여 테이블간 연결(통합관리해주는 index파일에서 정의)
 
-#### 4.
+### 4.
 
 이 라우터들을 app.js에 연결해주고 get post put delete요청에 해당하는 라우터를 만들어줍니다.
 get 조회 post 생성 patch 업데이트 delete라우터를 생성해주고 각각원하는 조회할때 조인시
