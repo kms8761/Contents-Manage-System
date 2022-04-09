@@ -17,7 +17,7 @@
     "google-maps-api-loader": "^1.1.1",
     "hchs-vue-charts": "^1.2.8",
     "html-webpack-externals-plugin": "^3.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pure-vue-chart": "^0.3.4",
     "sortablejs": "^1.10.1",
     "vue": "^2.6.10",
